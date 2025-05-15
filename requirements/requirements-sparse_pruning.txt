@@ -1,1 +1,2 @@
-neural-compressor==2.1.0
+neural-compressor==2.5
+scikit-learn>=1.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
