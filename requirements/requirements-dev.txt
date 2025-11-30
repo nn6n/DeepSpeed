@@ -19,3 +19,4 @@ tensorboard
 torchvision
 transformers>=4.39.0
 wandb
+werkzeug>=3.1.4 # not directly required, pinned by Snyk to avoid a vulnerability
